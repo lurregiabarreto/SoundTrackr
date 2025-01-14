@@ -52,7 +52,8 @@ Nesta aplicação, foi desenvolvido um sistema completo para armazenar dados de 
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone  https://github.com/lurregiabarreto/SoundTrackr.git
+
    ```
 
 2. **Configure o `application.properties`:**
